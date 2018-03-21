@@ -8,6 +8,7 @@
 
     <Button
         android:id="@+id/btnCache"
+        android:onClick="gotoDust2"
         android:layout_width="118dp"
         android:layout_height="105dp"
         android:layout_marginBottom="8dp"
