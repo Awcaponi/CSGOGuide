@@ -2,9 +2,6 @@ package com.android.awni.csgoguide;
 
 import java.util.ArrayList;
 
-/**
- * Created by user on 21/03/2018.
- */
 
 public class Maps {
     private int id;
